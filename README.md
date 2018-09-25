@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is a sample message. I am doing this for my Application Programming class.
